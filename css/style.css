@@ -1,0 +1,27 @@
+body {
+    font-family: "Roboto";
+}
+.bg-grey {
+    background: #525252;
+}
+.color-text-lightcoral {
+    color: lightcoral;
+}
+.text-h1 {
+    font-size: 2.3em;
+}
+.text-p {
+    font-size: 1em;
+}
+.btn-color {
+    background: coral;
+}
+.card-title {
+    font-weight: bold;
+}
+.card-text {
+    font-size: 0.9em;
+}
+.bg-section-three {
+    background: #F8F9FA;
+}
